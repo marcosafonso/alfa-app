@@ -1,0 +1,2 @@
+Componente para imagem:
+ - npx expo install expo-image
