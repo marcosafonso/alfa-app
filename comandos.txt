@@ -1,2 +1,5 @@
 Componente para imagem:
  - npx expo install expo-image
+
+- Imagem Seletor:
+ - npx expo install expo-image-picker
